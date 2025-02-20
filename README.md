@@ -16,7 +16,7 @@ This is a simple **Flask application** hosted on **GitHub Codespaces** that prov
 
 ## 📌 **How to Use**
 1. Open the hosted **HTOP Endpoint**:  
-   👉 [HTOP Live Link](https://glorious-space-fortnight-vj6wwwrvg5jfr5r-5000.app.github.dev/htop)
+   👉 [HTOP Live Link](https://glorious-space-fortnight-vj6wwvrvg5jfr5r-5000.app.github.dev/htop)
    
 2. View real-time **system performance** and **server details**.
 
